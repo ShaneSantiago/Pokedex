@@ -1,20 +1,16 @@
-# Pokedex
-<h5>Link para acesso do Surge</h5>
-https://best-mitten.surge.sh/
+<h1>Pokedex</h1>
 
-Projeto desenvolvido para processo seletivo.
-
-<h2>Objetivo</h2>
-Criar uma pokedex com todos os pokemons. Deveria ser informado as habilidades dos pokemons e ter um filtro para que pudesse procurar o pokemon pelo nome ou número nacional. Assim como também um botão de favoritar os pokemons
+<h2>Link para acesso do Surge</h2>
+<a href>https://best-mitten.surge.sh/</a>
 
 <h2>O que foi usado nesse projeto?</h2>
 
-React
-</br>
-Axios
-</br>
-Styled-Components
-</br>
-Hooks
-</br>
-API Pokemons
+<h2>Faça o clone e instale as dependências utilizando yarn ou npm i (escolha de sua preferência). Logo após execute com o npm start</h2>
+<h2>Aplicação feita em ReactJS. Foi usado nesse projeto algumas coisas como, axios, hooks, styled-components e a API de Pokemons</h2>
+
+<h3>Javascript</h3>
+<h3>React</h3>
+
+
+ 
+
