@@ -6,12 +6,12 @@
 
 <!-- PROJECT SOBRE -->
 <h2 id="sobre">:notebook: Sobre </h2>
-<p align="justify">Um projeto feito para um processo seletivo, no qual deveria criar uma tela com todos os pokemons, número nacional, nomes e suas habilidades. E também poder ter a opção de busca por nome ou pelo tipo do pokemon, assim como favoritar algum</p>
+<p align="justify">Projeto feito usando a API de Pokemons. Nesse projeto mostra todos os 121 pokemons da primeira geração. E também é posspivel filtrar por nome ou tipo de pokemon</p>
 
 <!-- PROJECT SITE -->
 <h2 id="site">:earth_americas: Link do site </h2>
-<p>🔗 <a href="https://best-mitten.surge.sh/" target="_blank"> Pokedex </a>  </p>
-<!-- <a href="https://best-mitten.surge.sh/" onclick="return ! window.open(this.href);"> Open in a new window</a> -->
+<p>🔗 <a href="https://private-men.surge.sh/" target="_blank"> Pokedex </a>  </p>
+<!-- <a href="https://private-men.surge.sh/" onclick="return ! window.open(this.href);"> Open in a new window</a> -->
 
 <!-- PROJECT TECHNOLOGIES -->
 <h2 id="tecnologias"> 🛠 Tecnologias </h2>
